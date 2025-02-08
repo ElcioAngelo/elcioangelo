@@ -1,4 +1,3 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 ## Bem vindo!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elcioangelo&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elcioangelo&layout=compact)
 
