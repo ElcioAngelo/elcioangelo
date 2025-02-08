@@ -3,3 +3,4 @@
 
 ###### Linguagens que utilizo: 
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/lang-ruby/ruby.png" height="50"> 
